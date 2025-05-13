@@ -22,7 +22,7 @@
 >
 > A loja tem o pior Faturamento médio acumulado
 >
-> A loja tem pior desempenho nas 8 categorias de produtos no Faturamento acumulado
+> A loja tem pior desempenho em 4 das 8 categorias de produtos no Faturamento acumulado
 
 ### Variação de Faturamento em relação ao ano anterior
 > Em 2021 a loja foi a 3° colocada em % de variação de faturamento em relação ao ano anterior
@@ -43,10 +43,10 @@
 
 ## Exceções de desempenho
 
-### Embora a Loja 4 de um modo geral tenha desempenho ruins nos indicadores analisados, foram identificadas algumas exceções
+### Embora a loja 4 de um modo geral tenha desempenho abaixo das demais lojas nos indicadores analisados, foram identificadas algumas exceções
 
 ### Vendas por Produtos
-> Considerando top 100 de da venda acumulada de produtos, a loja está em primeiro lugar
+> Considerando top 100 da venda acumulada de produtos, a loja está em primeiro lugar juntamente com a Loja 3
 
 ### Frete das Compras
 > Embora quase todas as lojas estejam empatadas, a loja apresenta uma pequena liderança no % de Frete sobre o Faturamento
