@@ -22,7 +22,7 @@
 >
 > A loja tem o pior Faturamento médio acumulado
 >
-> A loja tem pior desempenho nas 8 categorias de produtos no Faturamento acumulado
+> A loja tem pior desempenho em 4 das 8 categorias de produtos no Faturamento acumulado
 
 ### Variação de Faturamento em relação ao ano anterior
 > Em 2021 a loja foi a 3° colocada em % de variação de faturamento em relação ao ano anterior
