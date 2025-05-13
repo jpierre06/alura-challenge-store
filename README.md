@@ -43,10 +43,10 @@
 
 ## Exceções de desempenho
 
-### Embora a Loja 4 de um modo geral tenha desempenho ruins nos indicadores analisados, foram identificadas algumas exceções
+### Embora a loja 4 de um modo geral tenha desempenho abaixo das demais lojas nos indicadores analisados, foram identificadas algumas exceções
 
 ### Vendas por Produtos
-> Considerando top 100 de da venda acumulada de produtos, a loja está em primeiro lugar
+> Considerando top 100 da venda acumulada de produtos, a loja está em primeiro lugar juntamente com a Loja 3
 
 ### Frete das Compras
 > Embora quase todas as lojas estejam empatadas, a loja apresenta uma pequena liderança no % de Frete sobre o Faturamento
